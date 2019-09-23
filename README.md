@@ -1,1 +1,1 @@
-# CSUN-I-CORPS-Program-by-the-NationalScienceFoundation
+# CSUN I-CORPS [Accelerator] Program by the National Science Foundation
